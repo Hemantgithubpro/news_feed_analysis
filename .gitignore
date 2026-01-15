@@ -1,0 +1,58 @@
+# System
+.DS_Store
+thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.dccache
+.eslintcache
+.stylelintcache
+
+# Frontend build
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Backend
+backend/.env
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+
+# Docker
+.docker/
+
+# Jupyter
+.ipynb_checkpoints
